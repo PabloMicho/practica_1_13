@@ -26,3 +26,7 @@ p.mail {
 br {
     clear: both;
 }
+
+p.extras {
+    text-align: center;
+}
